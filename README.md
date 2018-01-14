@@ -1,6 +1,12 @@
 # vue-takeout
 
-> 跟着慕课网的视频做的一个基于vue2.0的高仿饿了么webApp，[课程地址戳我哦](https://coding.imooc.com/class/74.html)
+> 跟着慕课网的视频做的一个基于vue2.0的高仿饿了么webApp [课程地址戳我哦](https://coding.imooc.com/class/74.html)
+
+#项目演示
+
+[pc端戳我哦](http://39.107.64.228/vue-takeout/index.html#/goods)
+移动端扫它哦
+
 
 ## Build Setup
 
