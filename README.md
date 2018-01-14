@@ -4,8 +4,9 @@
 
 #项目演示
 
-[pc端戳我哦](http://39.107.64.228/vue-takeout/index.html#/goods)
-移动端扫它哦
+[pc端戳我哦](http://39.107.64.228/vue-takeout/index.html#/goods) <br>
+移动端扫它哦<br>
+![image](https://github.com/smilechenjia/vue-takeout/blob/master/src/show.png)
 
 
 ## Build Setup
