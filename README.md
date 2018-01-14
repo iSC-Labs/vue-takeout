@@ -1,6 +1,6 @@
 # vue-takeout
 
-> takeout app
+> 跟着慕课网的视频做的一个基于vue2.0的高仿饿了么webApp，[课程地址戳我哦](https://coding.imooc.com/class/74.html)
 
 ## Build Setup
 
