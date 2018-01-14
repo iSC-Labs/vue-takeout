@@ -26,7 +26,7 @@ npm run build
 
 ```
 
-##项目技术栈
+## 项目技术栈
 * MVVM框架:vue.js(2.5.2)
 * 前端路由:vue-router(3.0.1)
 * 服务端通讯:vue-resource(1.3.4)
