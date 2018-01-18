@@ -36,5 +36,5 @@ npm run build
 * 源码:es6
 * 代码检查工具:eslint
 
->我已在博客上记录了学习笔记，欢迎大家来访问哦^-^  [博客戳我哦](http://blog.csdn.net/sherry_chan)
+>我已在博客上记录了学习笔记及项目部署过程，欢迎大家来访问哦^-^  [博客戳我哦](http://blog.csdn.net/sherry_chan)
 
